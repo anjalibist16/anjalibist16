@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @anjalibist16
-- 👀 I’m interested in programs ...
-- 🌱 I’m currently learning coding ...
-
 
 
 <!---
